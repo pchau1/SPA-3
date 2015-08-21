@@ -1,0 +1,124 @@
+/* style file */
+.mainContainer{
+	background-color:#00FF00;
+
+}
+.Wrapper {
+	background-color: #DEDEDE;
+	-webkit-box-shadow: 10px 10px 86px 25px rgba(255,166,0,0.22);
+	-moz-box-shadow: 10px 10px 86px 25px rgba(255,166,0,0.22);
+	box-shadow: 10px 10px 86px 25px rgba(255,166,0,0.22);
+}
+.Wrappertwo {
+	background-color: #DEDEDE;
+	-webkit-box-shadow: 10px 10px 139px 0px rgba(0,102,204,0.5);
+	-moz-box-shadow: 10px 10px 139px 0px rgba(0,102,204,0.5);
+	box-shadow: 10px 10px 139px 0px rgba(0,102,204,0.5);
+}
+.header{
+	border:1px thin;
+	height:150px;
+	background-color: #DEDEDE;
+	font-family: Century Gothic;
+}
+.borders {
+	border: solid;
+	padding-top: 200px;
+	margin-top: 100px;
+	margin-right: 50px;
+	margin-left: 150px;
+
+}
+.well {
+	padding:40px;
+	background-color:white;
+}
+
+.siteBody{
+	min-height: 60px;
+}
+
+.bodyContainers{
+	padding-top: 20px;
+	padding-left: 100px;
+	min-height: 100px;
+	float: center;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  font-family: "Octin College"
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+  }
+
+ .centerBody{
+	padding-bottom: 40px;
+}
+
+/*Changes the inside of the Squares*/
+.centerIMG{
+	height:200px;
+	margin-top:30px;
+	margin-bottom:5px;
+	border:solid;
+	font-size: 11px;
+	font-family: "Abel";
+}
+.centerIMGIMG {
+	height:200px;
+	margin-top:30px;
+	margin-bottom:5px;
+	border:solid;
+	font-size: 11px;
+	font-family: "Abel";
+	padding-top: 30px;
+
+}
+.logoImg {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	border: 5px solid transparent;
+}
+.p.block {
+	margin-left:auto;
+	margin-right:auto;
+	width: 6em
+}
+.bottomarea {
+	height:200px;
+	width:550px;
+	border:solid;
+	margin-top:30px;
+	margin-bottom:5px;
+	font-size: 11px;
+	font-family: "Abel";
+	padding-top: 30px;
+	margin-left: 300px;
+}
+.centerpagetwo {
+	height:100px;
+	margin-top:30px;
+	margin-bottom:5px;
+	border:solid;
+	font-size: 11px;
+	font-family: "Abel";
+}
+.question {
+	height:250px;
+	margin-bottom: 50px;
+	border:solid;
+}
+.centerpagethree {
+	height:500px;
+	margin-top:30px;
+	margin-bottom:5px;
+	border:solid;
+	font-size: 11px;
+	font-family: "Abel";
+}
+
